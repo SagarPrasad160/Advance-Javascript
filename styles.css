@@ -13,16 +13,3 @@ h1 {
   text-align: center;
   color: white;
 }
-.buy,
-.poll {
-  font-size: 1.6rem;
-  padding: 1rem 2rem;
-  position: absolute;
-  top: 2rem;
-}
-.buy {
-  left: 2rem;
-}
-.poll {
-  right: 2rem;
-}
